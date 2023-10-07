@@ -9,7 +9,7 @@
 
 <h1 align="center">HacktoberFest 2023</h1>
 
-<img src="https://github.com/Edwinliby/Hacktoberfest2023/raw/main/logo.png">
+<img src="https://github.com/Edwinliby/Hacktoberfest2022/raw/main/logo.png">
 
 
 <p align="center">
